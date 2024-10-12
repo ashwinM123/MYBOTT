@@ -1,4 +1,4 @@
-mport openai
+import openai
 import streamlit as st
 
 # Access the API key from Streamlit secrets
